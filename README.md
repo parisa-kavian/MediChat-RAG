@@ -14,7 +14,7 @@
 
 > A **Retrieval-Augmented Generation (RAG)** chatbot that answers health questions using content scraped from **authoritative Mayo Clinic articles** — not the model's open-ended memory. It ships in two flavors: a **stateless** bot that answers each question independently, and a **stateful** bot that remembers recent turns for natural follow-ups.
 
-> ⚠️ **Disclaimer.** This is a technical demonstration for information retrieval over public health articles. It is **not** medical advice and must not be used for diagnosis or treatment.
+
 
 ---
 
